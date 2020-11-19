@@ -1,3 +1,15 @@
+/**
+ * Carrinho seguidor de linha
+ * Projeto da disciplina de Circuitos Elétricos e Eletrônicos
+ * Universidade Presbiteriana Mackenzie, 2020
+ *
+ * Autores: Elieder Damasceno Sousa
+ *          José Eduardo Bernardino Jorge
+ *
+ * Componentes utilizados: Arduino Nano, Ponte-H L298N, HC-SR04, Sensores Óptico Reflexivos.
+ * Link para visualização do projeto em: https://youtu.be/-V28nO94t70
+ */
+
 #include <NewPing.h>
 
 int pin_mtEsquerdo1     = 2;
